@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 This is a train.
 ok
+Creating a new branch is quick and simple.
