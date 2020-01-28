@@ -3,6 +3,5 @@ Git is free software distributed under thr GPL.
 Git has a mutable index called stage
 Git tracks changes of files.
 Creating a new branch is quick.
-This is a train.
-ok
-Creating a new branch is quick and simple.
+This is a tran.
+Creating a new branch is quick and simple
