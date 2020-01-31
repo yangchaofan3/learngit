@@ -1,0 +1,3 @@
+更改git远程库：1、git remote rm origin
+
+2、git remote add origin https://github.com/***/lego_loam.git
